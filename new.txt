@@ -1,0 +1,5 @@
+ Name: Kazimierz,
+ Surname: Loganovski,
+ Age: 34,
+ Pet: 1,
+ Salary:2000
