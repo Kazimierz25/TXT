@@ -1,1 +1,21 @@
 Android app/
+
+Telegram nickname: @Kazimierz25   
+Bug_id: 1
+
+Title: “Add widget” button function is not working on device
+
+Severity: blocker 
+
+Priority: high
+
+Environment: 1)Xiaomi M2012K11AG 12.SKQ.211006.001 MIUI 13.0.1.0
+
+Precondition: clear the app from running
+
+STR: 
+    Open app  
+    Click “Add Widget” button
+
+AR: button design changes on tap, but button function is not working, widget is not created on any page
+ER: Widget creation window appears/widget created
