@@ -1,0 +1,6 @@
+ Favorite movie: Konstantin,
+ Favorite series: Love, Death & Robots,
+ Favorite food: steak,
+ Favorite season: summer,
+ Country: italy
+
